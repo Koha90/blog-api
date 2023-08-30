@@ -3,6 +3,7 @@
 .idea
 bin
 bin/*
+logs
 
 # Files of configuration
 config.json
